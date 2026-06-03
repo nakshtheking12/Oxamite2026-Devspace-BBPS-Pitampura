@@ -1,4 +1,5 @@
-# Oxamite 2026 - Devspace - Bal Bharati Public School, Pitampura
+# Oxamite 2026 - Devspace
+# Submission By - Bal Bharati Public School, Pitampura
 ## StellarNet 
 A space-themed social networking platform designed for seamless communication, networking, and collaboration.
 
