@@ -32,8 +32,5 @@ https://tinyurl.com/DEMOVIDEO-DEVSPACE
 - JavaScript
 - Database: Firebase
 
-## Purpose
-StellarNet is built to combine communication, networking, and personalization into one unified and visually engaging platform.
-
 ## GitHub Repository 
 [https://nakshtheking12.github.io/Oxamite2026-Devspace-BBPS-Pitampura/]
