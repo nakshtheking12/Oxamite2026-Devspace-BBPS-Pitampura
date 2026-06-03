@@ -4,11 +4,11 @@
 ## Project/Prototype Link 
 [https://nakshtheking12.github.io/Oxamite2026-Devspace-BBPS-Pitampura/]
 
-## StellarNet 
-A space-themed social networking platform designed for seamless communication, networking, and collaboration.
-
 ## Demo Video
 https://tinyurl.com/DEMOVIDEO-DEVSPACE
+
+## StellarNet 
+A space-themed social networking platform designed for seamless communication, networking, and collaboration.
 
 ## Team Members 
 - Naksh Saluja 
