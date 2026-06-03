@@ -32,5 +32,5 @@ https://tinyurl.com/DEMOVIDEO-DEVSPACE
 - JavaScript
 - Database: Firebase
 
-## GitHub Repository 
+## Project/Prototype Link 
 [https://nakshtheking12.github.io/Oxamite2026-Devspace-BBPS-Pitampura/]
