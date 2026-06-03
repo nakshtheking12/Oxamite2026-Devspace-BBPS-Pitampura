@@ -1,5 +1,9 @@
 # Oxamite 2026 - Devspace
 # Submission By - Bal Bharati Public School, Pitampura
+
+## Project/Prototype Link 
+[https://nakshtheking12.github.io/Oxamite2026-Devspace-BBPS-Pitampura/]
+
 ## StellarNet 
 A space-themed social networking platform designed for seamless communication, networking, and collaboration.
 
@@ -31,6 +35,3 @@ https://tinyurl.com/DEMOVIDEO-DEVSPACE
 - CSS
 - JavaScript
 - Database: Firebase
-
-## Project/Prototype Link 
-[https://nakshtheking12.github.io/Oxamite2026-Devspace-BBPS-Pitampura/]
